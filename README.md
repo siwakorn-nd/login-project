@@ -1,8 +1,24 @@
-# React + Vite
+# Project Name
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web application for user registration, login, and activity management, using React and Axios to connect with an API.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **User Registration**: Allows users to register for the application by providing a username and password.
+
+2. **User Login**: Allows registered users to log in to their accounts by providing their credentials.
+
+3. **API Integration**: Connects with an external API using Axios to perform user registration and login operations.
+
+4. **Create Activity**: Provides a form for registered users to create new activities, including activity name, description, and other relevant information.
+
+5. **Get User Data by ID**: Retrieves user data from the API by providing the user's ID. This feature enables users to access their account details and activity history.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/siwakorn-nd/login-project.git
