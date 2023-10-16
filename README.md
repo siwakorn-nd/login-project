@@ -1,4 +1,4 @@
-# Project Name
+# Login Project
 
 A simple web application for user registration, login, and activity management, using React and Axios to connect with an API.
 
